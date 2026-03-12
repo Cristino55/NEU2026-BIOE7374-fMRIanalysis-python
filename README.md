@@ -20,7 +20,7 @@ Files
 first_level_tutorial.py \
 second_level_tutorial.py \
 nipype_tutorial_new.py \
-visualize_second_level.py \
+visualize_second_level.py
 
 Old Files
 -------------
