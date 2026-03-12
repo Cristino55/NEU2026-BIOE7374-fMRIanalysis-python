@@ -17,13 +17,13 @@ Python scripts for the three main stages of fMRI analysis (preprocessing, first-
 
 Files
 -------------
-first_level_tutorial.py \n
-second_level_tutorial.py \n
-nipype_tutorial_new.py \n
-visualize_second_level.py \n
+first_level_tutorial.py \
+second_level_tutorial.py \
+nipype_tutorial_new.py \
+visualize_second_level.py \
 
 Old Files
 -------------
-Unfortunately, I ran the first and second level analysis before the scripts were fixed and reuploaded resulting in a couple of issues during PS6. I troubledshooted by looking in the HPC cluster online and noticed the old scipts generated/copied old 2024 scripts into the scripts folder. I changed the necessary files (in the list above) to the new versions so I could finish PS6, however, I was still left with two files I believe are from the older 2024 section. Regardless, I will include them here in case. \n
-preproc_tutorial.py \n
+Unfortunately, I ran the first and second level analysis before the scripts were fixed and reuploaded resulting in a couple of issues during PS6. I troubledshooted by looking in the HPC cluster online and noticed the old scipts generated/copied old 2024 scripts into the scripts folder. I changed the necessary files (in the list above) to the new versions so I could finish PS6, however, I was still left with two files I believe are from the older 2024 section. Regardless, I will include them here in case. \
+preproc_tutorial.py \
 nipype_tutorial_old.py
