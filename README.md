@@ -1,4 +1,4 @@
-NEU2026-BIOE7374-fMRIanalysis-python
+NEU2026-BIOE7374-fMRIanalysis-python \
 Mark-Henry Cristino
 
 About
