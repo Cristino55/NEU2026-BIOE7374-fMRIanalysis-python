@@ -1,14 +1,8 @@
-# NEU2026-BIOE7374-fMRIanalysis-python
-
 +------------+-----------------------------------------------------------+
-| **Info**   | NI-DAQmx API for Python                                   | 
+| **Info**   | NEU2026-BIOE7374-fMRIanalysis-python                      | 
 +------------+-----------------------------------------------------------+
-| **Author** | National Instruments                                      |
+| **Author** | Mark-Henry Cristino                                       |
 +------------+-----------------------------------------------------------+
-
-.. contents:: Table of Contents
-   :depth: 1
-   :backlinks: none
 
 About
 =====
